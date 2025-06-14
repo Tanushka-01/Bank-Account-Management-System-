@@ -1,5 +1,5 @@
 import mysql.connector as a
-con = a.connect(host="localhost", user="root", passwd="*******", database="bank")
+con = a.connect(host="localhost", user="root", passwd="Tanushka", database="bank")
 
 def main():
      print("""
