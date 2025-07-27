@@ -54,3 +54,6 @@ The Bank Management System streamlines common banking operations—such as accou
 - Be sure to set up your MySQL database and tables according to your project’s requirements before running the app.
 - Update database credentials in the script as per your environment before use.
 
+### Prepared by-
+  - Tanushka Garg
+
