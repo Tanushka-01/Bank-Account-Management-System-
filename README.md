@@ -1,5 +1,3 @@
-# Bank-Account-Management-System
-
 # Bank Management System
 
 A simple console-based application for managing bank accounts, built using Python and MySQL.
